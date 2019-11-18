@@ -10,6 +10,7 @@ RED
 
 In Find a Saleperson, click on an existing salesperson and in the url set the id attribute to 10, 11, etc. 
 
+
 3. SQL Injection
 BLUE
 ![](sql_injection.gif)
