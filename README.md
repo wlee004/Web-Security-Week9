@@ -34,4 +34,11 @@ RED</pre>
 Here we are changing the user's information without the being an admin 
 
 <pre>6. Session Hijacking/Fixation 
-</pre>
+BLUE</pre>
+
+
+![](session_hijack1.gif)
+
+![](session_hijack2.gif)
+
+Here we are using public/hacktools/change_session_id.php to get the user's session id on the blue site. Then the attacker copies that session id onto their site to gain access to the user's account.
