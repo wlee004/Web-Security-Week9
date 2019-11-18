@@ -3,7 +3,13 @@ Week 9 Project: Pentesting Live Targets
 Time Spent: 10 Hours spent in total
 
 <pre>1. Username Enumeration
-</pre>
+GREEN</pre>
+
+![](username_enumeration1.gif)
+
+![](username_enumeration2.gif)
+
+On the green site we can see that when we sign in with an existing account it gives us error of failure but when we sign in with an non-existing account it gives us failed.
 
 <pre>2. Insecure Direct Object Reference 
 RED</pre>
